@@ -19,7 +19,7 @@
         <p class="display-6">Find your medication <br> with a click! </p>
         <p> Quick, Reliable, and at your fingertips</p>
         
-         <a href="./signinpage.php"><button >Join us</button></a>
+         <a href="chosse.php"><button >Join us</button></a>
          
        
      </div>

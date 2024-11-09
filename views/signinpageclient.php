@@ -19,8 +19,11 @@
           <div class="social-icons">
           </div>
           <input type="text" placeholder="Name" />
+          <input type="text" placeholder="Surname" />
+          <input type="tel" id="phone" name="phone" placeholder="Phone Number" />
           <input type="email" placeholder="Email" />
           <input type="password" placeholder="Password" />
+          <input type="date" id="datebirth" name="datebirth" placeholder="Date of Birth" require />
           <button>Sign Up</button>
         </form>
       </div>
