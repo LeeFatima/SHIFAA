@@ -56,6 +56,6 @@
       </div>
     </div>
 
-    <script src="scriptpharma.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
