@@ -13,18 +13,6 @@
 
   <body>
     <div class="container" id="container">
-      <div class="form-container sign-up">
-        <form>
-          <h1>Create Account</h1>
-          <div class="social-icons">
-          </div>
-          <input type="text" placeholder="Name" />
-          <input type="text" id="license" name="license" placeholder="Business License" />
-          <input type="email" placeholder="Email" />
-          <input type="password" placeholder="Password" />
-          <button>Sign Up</button>
-        </form>
-      </div>
       <div class="form-container sign-in">
         <form>
           <h1>Sign In</h1>
@@ -49,7 +37,7 @@
             <p>
               Register to access all that we have to offer
             </p>
-            <button class="hidden" id="register">Sign Up</button>
+           
           </div>
         </div>
       </div>
